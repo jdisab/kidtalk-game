@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KidTalk Cards</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="hero">
+      <div class="badge">Therapist Card Game</div>
+      <h1>KidTalk Cards</h1>
+      <p>A colorful flashcard-style question game to help kids share thoughts, feelings, and stories.</p>
+      <p class="note">For therapists, counselors, and helpers. Not a diagnostic tool.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Pick your card pile</h2>
+      <div id="categoryButtons" class="category-grid"></div>
+
+      <div class="button-row">
+        <button id="randomCardBtn" class="main-btn">Draw a Card ✨</button>
+        <button id="resetBtn" class="soft-btn">Reset Cards</button>
+      </div>
+    </section>
+
+    <section class="card-area">
+      <div id="card" class="card">
+        <div id="cardCategory" class="card-category">Ready</div>
+        <div id="cardQuestion" class="card-question">Choose one or more card piles, then draw a card.</div>
+        <div id="cardPrompt" class="card-prompt">Tip: Kids can answer with words, pointing, drawing, animals, colors, movement, or “pass.”</div>
+      </div>
+
+      <div class="button-row">
+        <button id="easyBtn" class="soft-btn">Make It Easier 🌱</button>
+        <button id="deeperBtn" class="soft-btn">Go Deeper 🔍</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Therapist notes</h2>
+      <p>Let the child skip any card. The goal is expression, not perfect answers.</p>
+      <p>For autistic kids, concrete choices can help: animal, color, weather, body feeling, drawing, or choosing from examples.</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
