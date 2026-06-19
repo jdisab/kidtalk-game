@@ -3,48 +3,71 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>KidTalk Cards</title>
+  <title>KidTalk Cards Pro</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <main class="app">
     <section class="hero">
       <div class="badge">Therapist Card Game</div>
-      <h1>KidTalk Cards</h1>
-      <p>A colorful flashcard-style question game to help kids share thoughts, feelings, and stories.</p>
-      <p class="note">For therapists, counselors, and helpers. Not a diagnostic tool.</p>
+      <h1>KidTalk Cards Pro</h1>
+      <p>A colorful question-card tool for helping kids express thoughts, feelings, needs, and experiences.</p>
+      <p class="note">Conversation aid only. Not a diagnostic, crisis, or risk-assessment tool.</p>
     </section>
 
     <section class="panel">
-      <h2>Pick your card pile</h2>
-      <div id="categoryButtons" class="category-grid"></div>
+      <div class="top-row">
+        <div>
+          <h2>1. Choose an age mode</h2>
+          <p class="small">This filters the deck. You can change it anytime.</p>
+        </div>
+        <div id="countBadge" class="count-badge">0 cards</div>
+      </div>
+      <div class="button-row left">
+        <button class="age-btn active" data-age="all">All Ages</button>
+        <button class="age-btn" data-age="5-7">Ages 5–7</button>
+        <button class="age-btn" data-age="8-12">Ages 8–12</button>
+        <button class="age-btn" data-age="Teen">Teens</button>
+      </div>
+    </section>
 
+    <section class="panel">
+      <h2>2. Choose card piles</h2>
+      <p class="small">Select one or more categories, or leave all unselected for a fully random draw.</p>
+      <div id="categoryButtons" class="category-grid"></div>
       <div class="button-row">
-        <button id="randomCardBtn" class="main-btn">Draw a Card ✨</button>
-        <button id="resetBtn" class="soft-btn">Reset Cards</button>
+        <button id="drawBtn" class="main-btn">Draw a Card ✨</button>
+        <button id="favoriteBtn" class="soft-btn">Save Favorite ⭐</button>
+        <button id="resetBtn" class="soft-btn">Reset Used Cards</button>
       </div>
     </section>
 
     <section class="card-area">
       <div id="card" class="card">
         <div id="cardCategory" class="card-category">Ready</div>
-        <div id="cardQuestion" class="card-question">Choose one or more card piles, then draw a card.</div>
-        <div id="cardPrompt" class="card-prompt">Tip: Kids can answer with words, pointing, drawing, animals, colors, movement, or “pass.”</div>
+        <div id="cardQuestion" class="card-question">Choose an age mode, pick card piles, or draw randomly.</div>
+        <div id="cardPrompt" class="card-prompt">Kids can answer with words, pointing, drawing, animals, colors, movement, or “pass.”</div>
       </div>
-
       <div class="button-row">
         <button id="easyBtn" class="soft-btn">Make It Easier 🌱</button>
         <button id="deeperBtn" class="soft-btn">Go Deeper 🔍</button>
+        <button id="originalBtn" class="soft-btn">Original Card 🃏</button>
       </div>
     </section>
 
     <section class="panel">
-      <h2>Therapist notes</h2>
-      <p>Let the child skip any card. The goal is expression, not perfect answers.</p>
-      <p>For autistic kids, concrete choices can help: animal, color, weather, body feeling, drawing, or choosing from examples.</p>
+      <h2>Favorites</h2>
+      <p class="small">Saved only on this device/browser.</p>
+      <div id="favoritesList" class="favorites-list">No favorites saved yet.</div>
+    </section>
+
+    <section class="panel">
+      <h2>Therapist-friendly reminders</h2>
+      <p><strong>Low-demand:</strong> Let the child pass, point, draw, choose from examples, or answer with a metaphor.</p>
+      <p><strong>Autistic-affirming:</strong> Do not force eye contact, emotional labeling, or “why” answers.</p>
+      <p><strong>Safety:</strong> If a card raises risk, pause the game and follow your clinical/safety protocol.</p>
     </section>
   </main>
-
   <script src="script.js"></script>
 </body>
 </html>

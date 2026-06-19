@@ -1,40 +1,34 @@
-# KidTalk Cards
+# KidTalk Cards Pro
 
-A simple, colorful flashcard-style browser game for therapists working with kids.
+A colorful flashcard-style question game for therapists working with kids.
 
-## What it does
+## Features
 
-- Lets the therapist choose categories
-- Draws random question cards
-- Includes easier versions of questions
-- Includes deeper follow-up prompts
-- Designed with autistic kids in mind by allowing concrete choices, animals, colors, weather, body sensations, drawing, pointing, or passing
+- 164+ therapy conversation cards
+- Category filters
+- Age filters: 5-7, 8-12, Teens
+- Original, Easier, and Deeper versions of each question
+- Favorite cards saved in the browser
+- Kid-friendly visual interface
+- Neurodiversity-affirming reminders
 
-## Categories
+## Upload to GitHub
 
-- Feelings
-- Self-Esteem
-- Home Life
-- School
-- Relationships
-- Coping
+Upload these files to your repository:
 
-## How to use on GitHub Pages
+- index.html
+- style.css
+- script.js
+- README.md
 
-1. Create a new GitHub repository.
-2. Upload these files:
-   - index.html
-   - style.css
-   - script.js
-3. Go to Settings.
-4. Click Pages.
-5. Under “Build and deployment,” choose:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: /root
-6. Save.
-7. GitHub will give you a public website link.
+Then turn on GitHub Pages:
 
-## Clinical note
+Settings > Pages > Deploy from a branch > main > /root > Save
 
-This is not a diagnostic or treatment tool. It is a conversation aid. Therapists should adapt questions based on the child’s age, communication style, sensory needs, safety, and clinical context.
+Your site will appear at:
+
+https://jdisab.github.io/kidtalk-game/
+
+## Note
+
+This is a conversation aid, not a diagnostic, crisis, or risk assessment tool.
