@@ -1668,7 +1668,667 @@ const cards = [
     "question": "What body clue do adults miss most often?",
     "easy": "You can name it, show it, draw it, or choose from examples.",
     "deeper": "What happens when they miss it?"
-  }
+  },
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Feelings",
+  "question": "Would you rather show your feelings with animals or colors?",
+  "easy": "Animals or colors?",
+  "deeper": "What animal or color would you choose today?",
+  "therapistNote": "Reveals preferred emotional expression mode."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Safety",
+  "question": "Would you rather have a cozy fort or a safe grown-up nearby?",
+  "easy": "Fort or grown-up?",
+  "deeper": "When do you need that most?",
+  "therapistNote": "Reveals safety and co-regulation needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Sensory",
+  "question": "Would you rather wear headphones all day or sunglasses all day?",
+  "easy": "Headphones or sunglasses?",
+  "deeper": "Which helps your brain feel safer?",
+  "therapistNote": "Reveals auditory versus visual sensitivity."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Regulation",
+  "question": "Would you rather have a magic calm button or a pause button?",
+  "easy": "Calm button or pause button?",
+  "deeper": "When would you use it?",
+  "therapistNote": "Reveals regulation versus environmental-control needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Communication",
+  "question": "Would you rather draw your answer or say your answer?",
+  "easy": "Draw or talk?",
+  "deeper": "When is drawing easier than talking?",
+  "therapistNote": "Reveals communication preferences."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Sensory",
+  "question": "Would you rather play with soft blankets or squishy slime?",
+  "easy": "Blankets or slime?",
+  "deeper": "What textures feel best to your body?",
+  "therapistNote": "Reveals tactile preferences."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Relationships",
+  "question": "Would you rather play with one friend or a small group?",
+  "easy": "One friend or small group?",
+  "deeper": "Which feels easier?",
+  "therapistNote": "Reveals social energy and peer preference."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Home",
+  "question": "Would you rather have quiet time alone or quiet time with someone safe?",
+  "easy": "Alone or with someone?",
+  "deeper": "How can people tell which one you need?",
+  "therapistNote": "Reveals solitude versus co-regulation needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Regulation",
+  "question": "Would you rather move your body or sit somewhere quiet?",
+  "easy": "Move or quiet?",
+  "deeper": "Which helps when your body feels too full?",
+  "therapistNote": "Reveals regulation strategy."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Predictability",
+  "question": "Would you rather know the plan before you go or have someone help you when plans change?",
+  "easy": "Know first or get help later?",
+  "deeper": "What kind of changes are hardest?",
+  "therapistNote": "Reveals need for preparation."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Feelings",
+  "question": "Would you rather your feeling be tiny and quiet or big and loud?",
+  "easy": "Tiny quiet or big loud?",
+  "deeper": "Which kind of feeling do you have more often?",
+  "therapistNote": "Explores intensity awareness."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "School",
+  "question": "Would you rather have extra recess or a quiet break room?",
+  "easy": "Recess or quiet room?",
+  "deeper": "Which would help your school day?",
+  "therapistNote": "Reveals school regulation needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Sensory",
+  "question": "Would you rather have no scratchy clothes or no loud sounds?",
+  "easy": "No scratchy clothes or no loud sounds?",
+  "deeper": "Which bothers your body more?",
+  "therapistNote": "Reveals sensory priority."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Communication",
+  "question": "Would you rather answer with pointing or choosing from pictures?",
+  "easy": "Pointing or pictures?",
+  "deeper": "Which feels easier?",
+  "therapistNote": "Supports AAC-style communication preferences."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Safety",
+  "question": "Would you rather someone ask before hugging you or wave instead?",
+  "easy": "Ask first or wave?",
+  "deeper": "What kind of greeting feels okay?",
+  "therapistNote": "Reveals consent and greeting boundaries."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Interests",
+  "question": "Would you rather talk about your favorite thing or show it to someone?",
+  "easy": "Talk or show?",
+  "deeper": "What would you show first?",
+  "therapistNote": "Reveals expressive style around interests."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Body Clues",
+  "question": "Would you rather have your body send a quiet signal or a loud signal when it needs help?",
+  "easy": "Quiet signal or loud signal?",
+  "deeper": "What signal does your body actually send?",
+  "therapistNote": "Builds interoceptive awareness."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Anxiety",
+  "question": "Would you rather have a helper animal or a helper robot when worried?",
+  "easy": "Animal or robot?",
+  "deeper": "What would the helper do?",
+  "therapistNote": "Reveals soothing imagery and support needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Choice",
+  "question": "Would you rather pick the next activity or pick when to take a break?",
+  "easy": "Activity choice or break choice?",
+  "deeper": "Which choice matters more?",
+  "therapistNote": "Reveals autonomy needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "5-7"
+  ],
+  "theme": "Feelings",
+  "question": "Would you rather feelings come with colors or sounds?",
+  "easy": "Colors or sounds?",
+  "deeper": "What would today’s feeling look or sound like?",
+  "therapistNote": "Builds metaphor-based emotional expression."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Predictability",
+  "question": "Would you rather know exactly what tomorrow will be like or be surprised by tomorrow?",
+  "easy": "Know tomorrow or be surprised?",
+  "deeper": "Do surprises usually feel fun, stressful, or both?",
+  "therapistNote": "Reveals intolerance of uncertainty and predictability needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Friendship",
+  "question": "Would you rather have one person who really gets you or be popular?",
+  "easy": "One close person or popularity?",
+  "deeper": "What does “gets you” mean?",
+  "therapistNote": "Reveals belonging needs and social values."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "School",
+  "question": "Would you rather never have homework again or never feel nervous at school again?",
+  "easy": "No homework or no school nerves?",
+  "deeper": "Which problem feels bigger?",
+  "therapistNote": "Distinguishes academic burden from anxiety burden."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Regulation",
+  "question": "Would you rather pause time when overwhelmed or restart a hard part of your day?",
+  "easy": "Pause or restart?",
+  "deeper": "When would you use it?",
+  "therapistNote": "Reveals coping fantasy and stress points."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Sensory",
+  "question": "Would you rather never hear annoying sounds again or never be bothered by bright lights again?",
+  "easy": "Sounds or lights?",
+  "deeper": "Which is harder for your brain?",
+  "therapistNote": "Reveals sensory priority."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Communication",
+  "question": "Would you rather people ask fewer questions or give you more time to answer?",
+  "easy": "Fewer questions or more time?",
+  "deeper": "Which would help more?",
+  "therapistNote": "Reveals processing and communication needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Anxiety",
+  "question": "Would you rather know what people really think of you or never know?",
+  "easy": "Know or never know?",
+  "deeper": "Which feels safer?",
+  "therapistNote": "Reveals social anxiety and uncertainty tolerance."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Friendship",
+  "question": "Would you rather have friends who share your interests or friends who help you try new things?",
+  "easy": "Same interests or new things?",
+  "deeper": "Which kind of friend feels easier?",
+  "therapistNote": "Reveals social motivation and flexibility."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "School",
+  "question": "Would you rather choose where you sit or choose who you work with?",
+  "easy": "Seat or partner?",
+  "deeper": "Why does that choice matter?",
+  "therapistNote": "Reveals environmental versus relational school needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Self-Esteem",
+  "question": "Would you rather be known for being kind or being really good at something?",
+  "easy": "Kind or skilled?",
+  "deeper": "Which one feels more like you?",
+  "therapistNote": "Reveals identity and self-concept."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Boundaries",
+  "question": "Would you rather people ask before touching your things or ask before sitting close to you?",
+  "easy": "Things or space?",
+  "deeper": "Which boundary matters more?",
+  "therapistNote": "Reveals personal space/property boundaries."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Regulation",
+  "question": "Would you rather have unlimited energy or unlimited calm?",
+  "easy": "Energy or calm?",
+  "deeper": "Which one would change your day more?",
+  "therapistNote": "Reveals arousal/regulation needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Home",
+  "question": "Would you rather have more alone time at home or more fun time with family?",
+  "easy": "Alone time or family fun?",
+  "deeper": "What do you wish home had more of?",
+  "therapistNote": "Reveals home connection versus decompression needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Emotion",
+  "question": "Would you rather understand why you feel upset or know what to do when upset?",
+  "easy": "Understand why or know what to do?",
+  "deeper": "Which would help first?",
+  "therapistNote": "Reveals insight versus coping orientation."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Masking",
+  "question": "Would you rather people understand your quiet side or your excited side better?",
+  "easy": "Quiet side or excited side?",
+  "deeper": "Which side gets misunderstood?",
+  "therapistNote": "Explores masking and expression."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Sensory",
+  "question": "Would you rather have a quiet lunchroom or a quiet classroom?",
+  "easy": "Lunchroom or classroom?",
+  "deeper": "Where is noise harder?",
+  "therapistNote": "Reveals school sensory pain points."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Communication",
+  "question": "Would you rather explain yourself once or have a card that explains for you?",
+  "easy": "Explain once or use a card?",
+  "deeper": "What should the card say?",
+  "therapistNote": "Reveals advocacy fatigue and support needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Choice",
+  "question": "Would you rather have more choices or clearer rules?",
+  "easy": "Choices or rules?",
+  "deeper": "Which makes life easier?",
+  "therapistNote": "Reveals autonomy versus structure needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Worry",
+  "question": "Would you rather have a worry shield or a mistake eraser?",
+  "easy": "Worry shield or mistake eraser?",
+  "deeper": "Which would you use more?",
+  "therapistNote": "Reveals anxiety versus shame/perfectionism themes."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "8-12"
+  ],
+  "theme": "Relationships",
+  "question": "Would you rather be invited but not have to go, or not be invited so there is no pressure?",
+  "easy": "Invited with choice or no invitation pressure?",
+  "deeper": "What feels hardest about invitations?",
+  "therapistNote": "Reveals social pressure, avoidance, and belonging."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Identity",
+  "question": "Would you rather understand yourself perfectly or have others understand you perfectly?",
+  "easy": "Understand yourself or be understood?",
+  "deeper": "Why did you choose that?",
+  "therapistNote": "Reveals identity and belonging needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Masking",
+  "question": "Would you rather never have to mask again or have people understand why you mask?",
+  "easy": "No masking or understood masking?",
+  "deeper": "What would change if that happened?",
+  "therapistNote": "Reveals masking burden."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Authenticity",
+  "question": "Would you rather be completely authentic or always fit in?",
+  "easy": "Authentic or fit in?",
+  "deeper": "What does each one cost?",
+  "therapistNote": "Reveals values and social survival strategies."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Acceptance",
+  "question": "Would you rather be understood or accepted?",
+  "easy": "Understood or accepted?",
+  "deeper": "Can one happen without the other?",
+  "therapistNote": "Explores belonging and identity."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Autonomy",
+  "question": "Would you rather explain your needs once or never have to explain them again?",
+  "easy": "Explain once or never explain again?",
+  "deeper": "What do people usually misunderstand?",
+  "therapistNote": "Reveals advocacy fatigue."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Relationships",
+  "question": "Would you rather have one person who completely gets you or many people who kind of get you?",
+  "easy": "One deep connection or many partial connections?",
+  "deeper": "Which feels less lonely?",
+  "therapistNote": "Reveals social needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Communication",
+  "question": "Would you rather text difficult things or say them face-to-face?",
+  "easy": "Text or face-to-face?",
+  "deeper": "Which feels safer?",
+  "therapistNote": "Reveals communication comfort and vulnerability style."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Future",
+  "question": "Would you rather know your future career or know what kind of life will make you feel okay?",
+  "easy": "Career or life that feels okay?",
+  "deeper": "Which question feels bigger?",
+  "therapistNote": "Explores future anxiety and values."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "School",
+  "question": "Would you rather never fail or never feel anxious?",
+  "easy": "No failure or no anxiety?",
+  "deeper": "Which one affects you more?",
+  "therapistNote": "Reveals perfectionism and anxiety load."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Neurodiversity",
+  "question": "Would you rather have people understand your sensory needs or your emotions?",
+  "easy": "Sensory needs or emotions?",
+  "deeper": "Which gets missed more?",
+  "therapistNote": "Reveals accommodation priorities."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Overwhelm",
+  "question": "Would you rather never feel overstimulated or never feel socially exhausted?",
+  "easy": "No overstimulation or no social exhaustion?",
+  "deeper": "Which one drains you more?",
+  "therapistNote": "Reveals sensory/social fatigue profile."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Masking",
+  "question": "Would you rather stop masking or have masking take no energy?",
+  "easy": "Stop masking or make it effortless?",
+  "deeper": "What would feel safer?",
+  "therapistNote": "Explores safety, authenticity, and energy."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Brain Manual",
+  "question": "Would you rather have a user manual for your brain or have everyone else read one?",
+  "easy": "Have one or have others read one?",
+  "deeper": "What would page one say?",
+  "therapistNote": "Supports Brain Manual feature."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Relationships",
+  "question": "Would you rather be liked for who you are or admired for what you do?",
+  "easy": "Liked or admired?",
+  "deeper": "Which one feels more important right now?",
+  "therapistNote": "Explores self-worth and performance pressure."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Boundaries",
+  "question": "Would you rather be better at saying no or better at asking for help?",
+  "easy": "Say no or ask for help?",
+  "deeper": "Which is harder?",
+  "therapistNote": "Reveals autonomy and support needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Family",
+  "question": "Would you rather your family understood your stress or your need for space?",
+  "easy": "Stress or space?",
+  "deeper": "Which causes more conflict?",
+  "therapistNote": "Reveals family-system pain points."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Social",
+  "question": "Would you rather always know what people mean or always know how to respond?",
+  "easy": "Understand meaning or know response?",
+  "deeper": "Which would make social life easier?",
+  "therapistNote": "Explores social cognition and response pressure."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Values",
+  "question": "Would you rather be comfortable or challenged?",
+  "easy": "Comfortable or challenged?",
+  "deeper": "When is each one useful?",
+  "therapistNote": "Reveals growth, avoidance, and safety needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Future",
+  "question": "Would you rather have a clear plan or more freedom?",
+  "easy": "Clear plan or freedom?",
+  "deeper": "Which one feels safer?",
+  "therapistNote": "Reveals executive-function and autonomy needs."
+},
+{
+  "category": "Would You Rather",
+  "ages": [
+    "Teen"
+  ],
+  "theme": "Therapy",
+  "question": "Would you rather therapy helped you explain yourself or helped other people understand you?",
+  "easy": "Explain yourself or help others understand?",
+  "deeper": "What would make therapy more useful?",
+  "therapistNote": "Reveals treatment goals and alliance needs."
+}
 ];
 const categoryInfo = {
   "Feelings": {
@@ -1812,7 +2472,9 @@ function drawCard() {
 function showCard(questionText, promptText) {
   if (!currentCard) return;
   const info = categoryInfo[currentCard.category] || { emoji: "🃏", color: "#5e35b1" };
-  cardCategory.textContent = `${info.emoji} ${currentCard.category}`;
+  cardCategory.textContent = currentCard.theme
+    ? `${info.emoji} ${currentCard.category} • ${currentCard.theme}`
+    : `${info.emoji} ${currentCard.category}`;
   cardQuestion.textContent = questionText;
   cardPrompt.textContent = promptText;
   cardEl.style.borderColor = info.color;
@@ -1854,7 +2516,8 @@ easyBtn.addEventListener("click", () => {
 
 deeperBtn.addEventListener("click", () => {
   if (!currentCard) return;
-  showCard(currentCard.deeper, "Go deeper only if the child seems comfortable and regulated.");
+  const note = currentCard.therapistNote ? ` Therapist note: ${currentCard.therapistNote}` : "";
+  showCard(currentCard.deeper, "Go deeper only if the child seems comfortable and regulated." + note);
 });
 
 originalBtn.addEventListener("click", () => {
